@@ -1,0 +1,27 @@
+{
+  "name": "NickAndPaeWeddingSite",
+  "version": "1.0.0",
+  "description": "-- Nick and Pae's Wedding Website",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "watch": "nodemon ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicksmith105/NickAndPaeWeddingSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicksmith105/NickAndPaeWeddingSite/issues"
+  },
+  "homepage": "https://github.com/nicksmith105/NickAndPaeWeddingSite#readme"
+}
